@@ -2,4 +2,4 @@
 
 This repository is for JavaScript programming practice.
 
-Jack 4
+dev and Jack 4
